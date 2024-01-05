@@ -1,0 +1,47 @@
+.title {
+    background-color: blue
+    text-align: center;
+    margin: 2rem ;
+    border: 5px solid black;
+    text-decoration: underline;
+    border-radius: 50%;
+}
+.intro {
+    margin: 2rem;
+    background-color: yellow;
+}
+.intro h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+.intro p {
+    font-size: 18px;
+    text-align: center;
+    padding: 1rem;
+}
+
+.info {
+    margin: 2rem;
+    background-color:  red;
+text-align: center;
+}
+.kanto {
+    margin: 2rem;
+    text-align: center;
+    background-color: pink
+}
+.formsandtypes{
+    margin: 2rem;
+    text-align: center;
+    background-color: orangered;
+}
+.gens{
+    margin: 2rem;
+    text-align: center;
+    background-color: aqua;
+}
+.facts{
+    margin: 2rem;
+    text-align: center;
+    background-color: greenyellow;
+}
