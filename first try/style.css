@@ -1,0 +1,18 @@
+
+.title-holder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   margin: 2rem;
+}
+.title {
+    background: url("nall.png") no-repeat center center/cover;
+    padding: 1rem;
+    height: 3rem;
+    width: 3rem;
+    text-align: center;
+    color: darkcyan;
+    border: 1px solid black;
+    text-decoration: underline;
+    border-radius: 50%;
+}
